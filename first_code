@@ -1,3 +1,10 @@
 # first code in the repository
 
 print('Hello World')
+
+x=2
+y=3
+
+for i in range(2):
+	print(x+y+i)
+	
