@@ -7,4 +7,6 @@ y=3
 
 for i in range(2):
 	print(x+y+i)
-	
+
+t=7+8
+u=list('u','v','w')
